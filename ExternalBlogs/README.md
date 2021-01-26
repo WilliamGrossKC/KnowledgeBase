@@ -1,1 +1,1 @@
-All linkes to External blogs can be found here.
+## All links to External blogs can be found here.
