@@ -1,1 +1,1 @@
-## All Quiskit resources can be found in this folder.
+## All Microsoft Q# resources can be found in this folder.
