@@ -1,0 +1,21 @@
+Here are really cool papers on quantum computing. Some of them are quite dense but they have a TON of
+really cool algorithms and other things in them.
+
+Quantum Algorithms
+
+Grover's Algorithm
+- https://arxiv.org/pdf/quant-ph/0109116.pdf
+
+Quantum Clustering Algorithms
+- https://icml.cc/imls/conferences/2007/proceedings/papers/518.pdf
+
+Revisiting k-means: New Algorithms via Bayesian Nonparametrics
+- https://icml.cc/2012/papers/291.pdf
+
+Quantum Machine Learning 
+
+Distance estimation for K-Means Clustering
+- https://towardsdatascience.com/quantum-machine-learning-distance-estimation-for-k-means-clustering-26bccfbfcc76
+
+Inference on Bayesian Networks
+- https://medium.com/analytics-vidhya/quantum-machine-learning-inference-on-bayesian-networks-351f242816e8
