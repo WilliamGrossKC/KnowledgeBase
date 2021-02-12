@@ -1,0 +1,27 @@
+Firstly, here is a video about quantum computing from a broad stance.
+- https://www.youtube.com/watch?v=TAzZKAdX2Tw&list=PLIxlJjN2V90w3KBWpELOE7jNQMICxoRwc
+
+With this video, there is a whole series that goes up from qubits to quantum gates to quantum algorithms.
+It is a very good series and I highly recommend using it as a guide. Feel free to branch off from these though.
+- https://www.youtube.com/playlist?list=PLIxlJjN2V90w3KBWpELOE7jNQMICxoRwc
+
+Next, Here is the best video I've seen to get an introduction to quantum. It is an hour and a half, 
+but its not very dense at all and is very interesting. Its from Microsoft's research arm and the
+guy does a great job of teaching the subject.
+
+Microsoft  Quantum
+- https://www.youtube.com/watch?v=F_Riqjdh2oM&t=3036s
+
+Here is a video that begins talking about quantum math. It starts with a single quibit then goes onto multiple
+
+Math of a Single Qubit
+- https://www.youtube.com/watch?v=3BkG1A5ZmNE&list=PL7YYUy5dUCpMeLrBLbst1lOB3Q28s26uP&index=1&t=18s
+
+Math of Multiple Qubits
+- https://www.youtube.com/watch?v=lt4GnHlkgNw&list=PL7YYUy5dUCpMeLrBLbst1lOB3Q28s26uP&index=2
+
+Hope these help!
+
+
+
+
